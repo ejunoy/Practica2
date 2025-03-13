@@ -1,0 +1,1 @@
+./simple-password-verification < payload
